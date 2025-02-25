@@ -1,7 +1,7 @@
 {
-    "name": "highsidelabs/walmart-api",
-    "version": "0.7.0",
-    "description": "A PHP client for Walmart's Marketplace, 1P Supplier, and Content Provider APIs.",
+    "name": "quocvu88/walmart-api",
+    "version": "0.7.1",
+    "description": "A PHP client for Walmart's Marketplace, 1P Supplier, and Content Provider APIs. Fork form highsidelabs.co",
     "keywords": [
         "walmart",
         "walmart-api",
@@ -16,9 +16,9 @@
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Highside Labs",
-            "homepage": "https://highsidelabs.co",
-            "email": "jesse@highsidelabs.co"
+            "name": "Quocvu88",
+            "homepage": "https://quocvu88.com",
+            "email": "admin@quocvu88.com"
         }
     ],
     "require": {
@@ -29,7 +29,7 @@
         "guzzlehttp/guzzle": "^7.4",
         "guzzlehttp/psr7": "^1.7 || ^2.0",
         "ramsey/uuid": "^4.7",
-        "symfony/uid": "^6.1",
+        "symfony/uid": "^7.2",
         "phpseclib/phpseclib": "^3.0"
     },
     "require-dev": {
